@@ -1,0 +1,24 @@
+{
+  "name": "p5js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaika-design/p5js-test.git"
+  },
+  "author": "CHAIKA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaika-design/p5js-test/issues"
+  },
+  "homepage": "https://github.com/chaika-design/p5js-test#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {}
+}
